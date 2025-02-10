@@ -444,12 +444,12 @@ class LogicalReasoning:
                 resolvents = self.resolve(ci, cj)
                 
                 if any(resolvent is None for resolvent in resolvents):  
-                    return True  # Contradiction found, query is entailed
+                    return True
                 
                 new.update(resolvents)
 
             if new.issubset(clauses):
-                return False  # No new information, query is not entailed
+                return False
 
             clauses.update(new)
 
