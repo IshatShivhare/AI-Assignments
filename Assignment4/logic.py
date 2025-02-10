@@ -432,23 +432,25 @@ class LogicalReasoning:
     def resolution(self, knowledge_base, query):
         """
         Use resolution to determine if knowledge base entails query.
-        Returns True if KB entails query, False otherwise.
+        Returns True if KB entails query (i.e., contradiction found), False otherwise.
         """
         clauses = self.get_clauses(self.to_cnf(knowledge_base))
         clauses.update(self.get_clauses(self.to_cnf(Not(query))))
-        
+
         new = set()
         while True:
             pairs = [(ci, cj) for ci in clauses for cj in clauses if ci != cj]
             for ci, cj in pairs:
                 resolvents = self.resolve(ci, cj)
-                if None in resolvents:
-                    return True
-                new.update(resolvents)
-            
-            if new.issubset(clauses):
-                return False
                 
+                if any(resolvent is None for resolvent in resolvents):  
+                    return True  # Contradiction found, query is entailed
+                
+                new.update(resolvents)
+
+            if new.issubset(clauses):
+                return False  # No new information, query is not entailed
+
             clauses.update(new)
 
     def solve_problem(self, problem_type, knowledge_base, query):
