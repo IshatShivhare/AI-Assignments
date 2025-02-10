@@ -87,6 +87,7 @@ class Biconditional(Sentence):
         return self.left.symbols().union(self.right.symbols())
 
     def __repr__(self):
+<<<<<<< HEAD
         return f"({self.left} ↔ {self.right})"
     
 class PropositionalEvaluator:
@@ -135,3 +136,6 @@ class PropositionalEvaluator:
             print(row)
     
     
+=======
+        return f"({self.left} ↔ {self.right})"
+>>>>>>> main
