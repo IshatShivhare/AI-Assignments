@@ -10,7 +10,7 @@
 
 # Facts
 facts = {
-    "Mortal(Socrates)": True,
+    "Human(Socrates)": True,
 }
 
 # Rules
