@@ -2,8 +2,8 @@ import random
 
 # Parameters
 POP_SIZE = 100  # Population size
-MUTATION_RATE = 0.1  # Probability of mutation for each gene
-GENERATIONS = 500  # Number of generations to run the algorithm
+MUTATION_RATE = 0.2  # Probability of mutation for each gene
+GENERATIONS = 200  # Number of generations to run the algorithm
 SEQ1 = "AGCTGAC"  # First DNA sequence
 SEQ2 = "ATC"  # Second DNA sequence
 
@@ -38,7 +38,7 @@ def fitness(alignment1, alignment2):
     score = 0
     for a, b in zip(alignment1, alignment2):
         if a == b:
-            score += 1  # Match
+            score += 2  # Match
         elif a == '-' or b == '-':
             score -= 1  # Gap penalty
         else:

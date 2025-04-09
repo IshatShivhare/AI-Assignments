@@ -1,0 +1,7086 @@
+
+==================== 2 Colors: Black, White ====================
+Total Solutions: 0
+
+
+==================== 3 Colors: Red, Green, Blue ====================
+Total Solutions: 18
+
+Solution 1:
+  NSW: Green
+  NT: Green
+  Q: Red
+  SA: Blue
+  T: Blue
+  V: Red
+  WA: Red
+
+Solution 2:
+  NSW: Green
+  NT: Green
+  Q: Red
+  SA: Blue
+  T: Green
+  V: Red
+  WA: Red
+
+Solution 3:
+  NSW: Green
+  NT: Green
+  Q: Red
+  SA: Blue
+  T: Red
+  V: Red
+  WA: Red
+
+Solution 4:
+  NSW: Red
+  NT: Red
+  Q: Green
+  SA: Blue
+  T: Blue
+  V: Green
+  WA: Green
+
+Solution 5:
+  NSW: Red
+  NT: Red
+  Q: Green
+  SA: Blue
+  T: Green
+  V: Green
+  WA: Green
+
+Solution 6:
+  NSW: Red
+  NT: Red
+  Q: Green
+  SA: Blue
+  T: Red
+  V: Green
+  WA: Green
+
+Solution 7:
+  NSW: Blue
+  NT: Blue
+  Q: Red
+  SA: Green
+  T: Blue
+  V: Red
+  WA: Red
+
+Solution 8:
+  NSW: Blue
+  NT: Blue
+  Q: Red
+  SA: Green
+  T: Green
+  V: Red
+  WA: Red
+
+Solution 9:
+  NSW: Blue
+  NT: Blue
+  Q: Red
+  SA: Green
+  T: Red
+  V: Red
+  WA: Red
+
+Solution 10:
+  NSW: Red
+  NT: Red
+  Q: Blue
+  SA: Green
+  T: Blue
+  V: Blue
+  WA: Blue
+
+Solution 11:
+  NSW: Red
+  NT: Red
+  Q: Blue
+  SA: Green
+  T: Green
+  V: Blue
+  WA: Blue
+
+Solution 12:
+  NSW: Red
+  NT: Red
+  Q: Blue
+  SA: Green
+  T: Red
+  V: Blue
+  WA: Blue
+
+Solution 13:
+  NSW: Green
+  NT: Green
+  Q: Blue
+  SA: Red
+  T: Blue
+  V: Blue
+  WA: Blue
+
+Solution 14:
+  NSW: Green
+  NT: Green
+  Q: Blue
+  SA: Red
+  T: Green
+  V: Blue
+  WA: Blue
+
+Solution 15:
+  NSW: Green
+  NT: Green
+  Q: Blue
+  SA: Red
+  T: Red
+  V: Blue
+  WA: Blue
+
+Solution 16:
+  NSW: Blue
+  NT: Blue
+  Q: Green
+  SA: Red
+  T: Blue
+  V: Green
+  WA: Green
+
+Solution 17:
+  NSW: Blue
+  NT: Blue
+  Q: Green
+  SA: Red
+  T: Green
+  V: Green
+  WA: Green
+
+Solution 18:
+  NSW: Blue
+  NT: Blue
+  Q: Green
+  SA: Red
+  T: Red
+  V: Green
+  WA: Green
+
+
+==================== 4 Colors: Cyan, Magenta, Yellow, Black ====================
+Total Solutions: 768
+
+Solution 1:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 2:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 3:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 4:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 5:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Cyan
+
+Solution 6:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Cyan
+
+Solution 7:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Cyan
+
+Solution 8:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Cyan
+
+Solution 9:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Magenta
+
+Solution 10:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Magenta
+
+Solution 11:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Magenta
+
+Solution 12:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Magenta
+
+Solution 13:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 14:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 15:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 16:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 17:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Yellow
+
+Solution 18:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Yellow
+
+Solution 19:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Yellow
+
+Solution 20:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Yellow
+
+Solution 21:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 22:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 23:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 24:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 25:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Yellow
+
+Solution 26:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Yellow
+
+Solution 27:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Yellow
+
+Solution 28:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Yellow
+
+Solution 29:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Magenta
+
+Solution 30:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Magenta
+
+Solution 31:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Magenta
+
+Solution 32:
+  NSW: Yellow
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Magenta
+
+Solution 33:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Cyan
+
+Solution 34:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Cyan
+
+Solution 35:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Cyan
+
+Solution 36:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Cyan
+
+Solution 37:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Yellow
+
+Solution 38:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Yellow
+
+Solution 39:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Yellow
+
+Solution 40:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Yellow
+
+Solution 41:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 42:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 43:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 44:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 45:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Yellow
+
+Solution 46:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Yellow
+
+Solution 47:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Yellow
+
+Solution 48:
+  NSW: Yellow
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Yellow
+
+Solution 49:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 50:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 51:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 52:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 53:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Cyan
+
+Solution 54:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Cyan
+
+Solution 55:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Cyan
+
+Solution 56:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Cyan
+
+Solution 57:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Magenta
+
+Solution 58:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Magenta
+
+Solution 59:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Magenta
+
+Solution 60:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Magenta
+
+Solution 61:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 62:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 63:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 64:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 65:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 66:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 67:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 68:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 69:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Magenta
+
+Solution 70:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Magenta
+
+Solution 71:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Magenta
+
+Solution 72:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Magenta
+
+Solution 73:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Yellow
+
+Solution 74:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Yellow
+
+Solution 75:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Yellow
+
+Solution 76:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Yellow
+
+Solution 77:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Magenta
+
+Solution 78:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Magenta
+
+Solution 79:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Magenta
+
+Solution 80:
+  NSW: Magenta
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Magenta
+
+Solution 81:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Cyan
+
+Solution 82:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Cyan
+
+Solution 83:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Cyan
+
+Solution 84:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Cyan
+
+Solution 85:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 86:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 87:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 88:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 89:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 90:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 91:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 92:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 93:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Yellow
+
+Solution 94:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Yellow
+
+Solution 95:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Yellow
+
+Solution 96:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Yellow
+
+Solution 97:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Magenta
+
+Solution 98:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Magenta
+
+Solution 99:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Magenta
+
+Solution 100:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Magenta
+
+Solution 101:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Cyan
+
+Solution 102:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Cyan
+
+Solution 103:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Cyan
+
+Solution 104:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Cyan
+
+Solution 105:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Magenta
+
+Solution 106:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Magenta
+
+Solution 107:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Magenta
+
+Solution 108:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Magenta
+
+Solution 109:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 110:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 111:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 112:
+  NSW: Magenta
+  NT: Yellow
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 113:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 114:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 115:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 116:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 117:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Cyan
+
+Solution 118:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Cyan
+
+Solution 119:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Cyan
+
+Solution 120:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Cyan
+
+Solution 121:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Yellow
+
+Solution 122:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Yellow
+
+Solution 123:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Yellow
+
+Solution 124:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Yellow
+
+Solution 125:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 126:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 127:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 128:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Black
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 129:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 130:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 131:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 132:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 133:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Yellow
+
+Solution 134:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Yellow
+
+Solution 135:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Yellow
+
+Solution 136:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Yellow
+
+Solution 137:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Magenta
+
+Solution 138:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Magenta
+
+Solution 139:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Magenta
+
+Solution 140:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Magenta
+
+Solution 141:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 142:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 143:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 144:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 145:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Cyan
+
+Solution 146:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Cyan
+
+Solution 147:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Cyan
+
+Solution 148:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Cyan
+
+Solution 149:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 150:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 151:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 152:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 153:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Cyan
+
+Solution 154:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Cyan
+
+Solution 155:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Cyan
+
+Solution 156:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Cyan
+
+Solution 157:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Magenta
+
+Solution 158:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Magenta
+
+Solution 159:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Magenta
+
+Solution 160:
+  NSW: Cyan
+  NT: Yellow
+  Q: Magenta
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Magenta
+
+Solution 161:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Yellow
+
+Solution 162:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Yellow
+
+Solution 163:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Yellow
+
+Solution 164:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Yellow
+
+Solution 165:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Cyan
+
+Solution 166:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Cyan
+
+Solution 167:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Cyan
+
+Solution 168:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Cyan
+
+Solution 169:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 170:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 171:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 172:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 173:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Cyan
+
+Solution 174:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Cyan
+
+Solution 175:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Cyan
+
+Solution 176:
+  NSW: Cyan
+  NT: Magenta
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Cyan
+
+Solution 177:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 178:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 179:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 180:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 181:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Magenta
+  WA: Yellow
+
+Solution 182:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Magenta
+  WA: Yellow
+
+Solution 183:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Magenta
+  WA: Yellow
+
+Solution 184:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Magenta
+  WA: Yellow
+
+Solution 185:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Magenta
+
+Solution 186:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Magenta
+
+Solution 187:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Magenta
+
+Solution 188:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Magenta
+
+Solution 189:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 190:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 191:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 192:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Black
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 193:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 194:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 195:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 196:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 197:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Magenta
+
+Solution 198:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Magenta
+
+Solution 199:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Magenta
+
+Solution 200:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Magenta
+
+Solution 201:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Cyan
+
+Solution 202:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Cyan
+
+Solution 203:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Cyan
+
+Solution 204:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Cyan
+
+Solution 205:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 206:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 207:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 208:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 209:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Black
+
+Solution 210:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Black
+
+Solution 211:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Black
+
+Solution 212:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Black
+
+Solution 213:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 214:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 215:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 216:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 217:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Black
+
+Solution 218:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Black
+
+Solution 219:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Black
+
+Solution 220:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Black
+
+Solution 221:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Cyan
+
+Solution 222:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Cyan
+
+Solution 223:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Cyan
+
+Solution 224:
+  NSW: Black
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Cyan
+
+Solution 225:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Magenta
+
+Solution 226:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Magenta
+
+Solution 227:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Magenta
+
+Solution 228:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Magenta
+
+Solution 229:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Black
+
+Solution 230:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Black
+
+Solution 231:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Black
+
+Solution 232:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Black
+
+Solution 233:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 234:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 235:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 236:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 237:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Black
+
+Solution 238:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Black
+
+Solution 239:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Black
+
+Solution 240:
+  NSW: Black
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Black
+
+Solution 241:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 242:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 243:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 244:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 245:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Magenta
+
+Solution 246:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Magenta
+
+Solution 247:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Magenta
+
+Solution 248:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Magenta
+
+Solution 249:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Cyan
+
+Solution 250:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Cyan
+
+Solution 251:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Cyan
+
+Solution 252:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Cyan
+
+Solution 253:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 254:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 255:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 256:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 257:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 258:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 259:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 260:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 261:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Cyan
+
+Solution 262:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Cyan
+
+Solution 263:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Cyan
+
+Solution 264:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Cyan
+
+Solution 265:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Black
+
+Solution 266:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Black
+
+Solution 267:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Black
+
+Solution 268:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Black
+
+Solution 269:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 270:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 271:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 272:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 273:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Magenta
+
+Solution 274:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Magenta
+
+Solution 275:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Magenta
+
+Solution 276:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Magenta
+
+Solution 277:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 278:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 279:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 280:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 281:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Magenta
+
+Solution 282:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Magenta
+
+Solution 283:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Magenta
+
+Solution 284:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Magenta
+
+Solution 285:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Black
+
+Solution 286:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Black
+
+Solution 287:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Black
+
+Solution 288:
+  NSW: Magenta
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Black
+
+Solution 289:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Cyan
+
+Solution 290:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Cyan
+
+Solution 291:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Cyan
+
+Solution 292:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Cyan
+
+Solution 293:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Magenta
+
+Solution 294:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Magenta
+
+Solution 295:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Magenta
+
+Solution 296:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Magenta
+
+Solution 297:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 298:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 299:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 300:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 301:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Magenta
+
+Solution 302:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Magenta
+
+Solution 303:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Magenta
+
+Solution 304:
+  NSW: Magenta
+  NT: Black
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Magenta
+
+Solution 305:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 306:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 307:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 308:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 309:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Cyan
+
+Solution 310:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Cyan
+
+Solution 311:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Cyan
+
+Solution 312:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Cyan
+
+Solution 313:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Black
+
+Solution 314:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Black
+
+Solution 315:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Black
+
+Solution 316:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Black
+
+Solution 317:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 318:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 319:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 320:
+  NSW: Magenta
+  NT: Magenta
+  Q: Cyan
+  SA: Yellow
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 321:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 322:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 323:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 324:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 325:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Black
+
+Solution 326:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Black
+
+Solution 327:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Black
+
+Solution 328:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Black
+
+Solution 329:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Magenta
+
+Solution 330:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Magenta
+
+Solution 331:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Magenta
+
+Solution 332:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Magenta
+
+Solution 333:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 334:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 335:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 336:
+  NSW: Cyan
+  NT: Cyan
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 337:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Cyan
+
+Solution 338:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Cyan
+
+Solution 339:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Cyan
+
+Solution 340:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Cyan
+
+Solution 341:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 342:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 343:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 344:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 345:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Cyan
+
+Solution 346:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Cyan
+
+Solution 347:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Cyan
+
+Solution 348:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Cyan
+
+Solution 349:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Magenta
+
+Solution 350:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Magenta
+
+Solution 351:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Magenta
+
+Solution 352:
+  NSW: Cyan
+  NT: Black
+  Q: Magenta
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Magenta
+
+Solution 353:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Black
+
+Solution 354:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Black
+
+Solution 355:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Black
+
+Solution 356:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Black
+
+Solution 357:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Cyan
+
+Solution 358:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Cyan
+
+Solution 359:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Cyan
+
+Solution 360:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Cyan
+
+Solution 361:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 362:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 363:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 364:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 365:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Cyan
+
+Solution 366:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Cyan
+
+Solution 367:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Cyan
+
+Solution 368:
+  NSW: Cyan
+  NT: Magenta
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Cyan
+
+Solution 369:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 370:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 371:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 372:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 373:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Magenta
+  WA: Black
+
+Solution 374:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Magenta
+  WA: Black
+
+Solution 375:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Magenta
+  WA: Black
+
+Solution 376:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Magenta
+  WA: Black
+
+Solution 377:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Magenta
+
+Solution 378:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Magenta
+
+Solution 379:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Magenta
+
+Solution 380:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Magenta
+
+Solution 381:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 382:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 383:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 384:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Yellow
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 385:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 386:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 387:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 388:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 389:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Black
+
+Solution 390:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Black
+
+Solution 391:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Black
+
+Solution 392:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Black
+
+Solution 393:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Cyan
+
+Solution 394:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Cyan
+
+Solution 395:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Cyan
+
+Solution 396:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Cyan
+
+Solution 397:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 398:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 399:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 400:
+  NSW: Yellow
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 401:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Yellow
+
+Solution 402:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Yellow
+
+Solution 403:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Yellow
+
+Solution 404:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Yellow
+
+Solution 405:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 406:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 407:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 408:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 409:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Yellow
+
+Solution 410:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Yellow
+
+Solution 411:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Yellow
+
+Solution 412:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Yellow
+
+Solution 413:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Cyan
+
+Solution 414:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Cyan
+
+Solution 415:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Cyan
+
+Solution 416:
+  NSW: Yellow
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Cyan
+
+Solution 417:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Black
+
+Solution 418:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Black
+
+Solution 419:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Black
+
+Solution 420:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Black
+
+Solution 421:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Yellow
+
+Solution 422:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Yellow
+
+Solution 423:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Yellow
+
+Solution 424:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Yellow
+
+Solution 425:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 426:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 427:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 428:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 429:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Yellow
+
+Solution 430:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Yellow
+
+Solution 431:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Yellow
+
+Solution 432:
+  NSW: Yellow
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Yellow
+
+Solution 433:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 434:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 435:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 436:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 437:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Black
+
+Solution 438:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Black
+
+Solution 439:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Black
+
+Solution 440:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Black
+
+Solution 441:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Cyan
+
+Solution 442:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Cyan
+
+Solution 443:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Cyan
+
+Solution 444:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Cyan
+
+Solution 445:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 446:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 447:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 448:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 449:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 450:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 451:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 452:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 453:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Cyan
+
+Solution 454:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Cyan
+
+Solution 455:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Cyan
+
+Solution 456:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Cyan
+
+Solution 457:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Yellow
+
+Solution 458:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Yellow
+
+Solution 459:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Yellow
+
+Solution 460:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Yellow
+
+Solution 461:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 462:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 463:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 464:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 465:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Black
+
+Solution 466:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Black
+
+Solution 467:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Black
+
+Solution 468:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Black
+
+Solution 469:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 470:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 471:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 472:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 473:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Black
+
+Solution 474:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Black
+
+Solution 475:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Black
+
+Solution 476:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Black
+
+Solution 477:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Yellow
+
+Solution 478:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Yellow
+
+Solution 479:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Yellow
+
+Solution 480:
+  NSW: Black
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Yellow
+
+Solution 481:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Cyan
+
+Solution 482:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Cyan
+
+Solution 483:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Cyan
+
+Solution 484:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Cyan
+
+Solution 485:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Black
+
+Solution 486:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Black
+
+Solution 487:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Black
+
+Solution 488:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Black
+
+Solution 489:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 490:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 491:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 492:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 493:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Black
+
+Solution 494:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Black
+
+Solution 495:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Black
+
+Solution 496:
+  NSW: Black
+  NT: Yellow
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Black
+
+Solution 497:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 498:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 499:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 500:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 501:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Cyan
+
+Solution 502:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Cyan
+
+Solution 503:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Cyan
+
+Solution 504:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Cyan
+
+Solution 505:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Yellow
+
+Solution 506:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Yellow
+
+Solution 507:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Yellow
+
+Solution 508:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Yellow
+
+Solution 509:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Black
+  V: Cyan
+  WA: Cyan
+
+Solution 510:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Yellow
+  V: Cyan
+  WA: Cyan
+
+Solution 511:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Magenta
+  V: Cyan
+  WA: Cyan
+
+Solution 512:
+  NSW: Black
+  NT: Black
+  Q: Cyan
+  SA: Magenta
+  T: Cyan
+  V: Cyan
+  WA: Cyan
+
+Solution 513:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 514:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 515:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 516:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 517:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Yellow
+
+Solution 518:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Yellow
+
+Solution 519:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Yellow
+
+Solution 520:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Yellow
+
+Solution 521:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Black
+
+Solution 522:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Black
+
+Solution 523:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Black
+
+Solution 524:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Black
+
+Solution 525:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 526:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 527:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 528:
+  NSW: Cyan
+  NT: Cyan
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 529:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Cyan
+
+Solution 530:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Cyan
+
+Solution 531:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Cyan
+
+Solution 532:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Cyan
+
+Solution 533:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 534:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 535:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 536:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 537:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Cyan
+
+Solution 538:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Cyan
+
+Solution 539:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Cyan
+
+Solution 540:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Cyan
+
+Solution 541:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Black
+
+Solution 542:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Black
+
+Solution 543:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Black
+
+Solution 544:
+  NSW: Cyan
+  NT: Yellow
+  Q: Black
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Black
+
+Solution 545:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Yellow
+
+Solution 546:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Yellow
+
+Solution 547:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Yellow
+
+Solution 548:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Yellow
+
+Solution 549:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Cyan
+
+Solution 550:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Cyan
+
+Solution 551:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Cyan
+
+Solution 552:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Cyan
+
+Solution 553:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 554:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 555:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 556:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 557:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Cyan
+
+Solution 558:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Cyan
+
+Solution 559:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Cyan
+
+Solution 560:
+  NSW: Cyan
+  NT: Black
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Cyan
+
+Solution 561:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 562:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 563:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 564:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 565:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Black
+  WA: Yellow
+
+Solution 566:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Black
+  WA: Yellow
+
+Solution 567:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Black
+  WA: Yellow
+
+Solution 568:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Black
+  WA: Yellow
+
+Solution 569:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Black
+
+Solution 570:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Black
+
+Solution 571:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Black
+
+Solution 572:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Black
+
+Solution 573:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 574:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 575:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 576:
+  NSW: Cyan
+  NT: Cyan
+  Q: Yellow
+  SA: Magenta
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 577:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 578:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 579:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 580:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 581:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Yellow
+
+Solution 582:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Yellow
+
+Solution 583:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Yellow
+
+Solution 584:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Yellow
+
+Solution 585:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Black
+
+Solution 586:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Black
+
+Solution 587:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Black
+
+Solution 588:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Black
+
+Solution 589:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 590:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 591:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 592:
+  NSW: Magenta
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 593:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Magenta
+
+Solution 594:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Magenta
+
+Solution 595:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Magenta
+
+Solution 596:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Magenta
+
+Solution 597:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 598:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 599:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 600:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 601:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Magenta
+
+Solution 602:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Magenta
+
+Solution 603:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Magenta
+
+Solution 604:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Magenta
+
+Solution 605:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Black
+
+Solution 606:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Black
+
+Solution 607:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Black
+
+Solution 608:
+  NSW: Magenta
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Black
+
+Solution 609:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Yellow
+
+Solution 610:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Yellow
+
+Solution 611:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Yellow
+
+Solution 612:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Yellow
+
+Solution 613:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Magenta
+
+Solution 614:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Magenta
+
+Solution 615:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Magenta
+
+Solution 616:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Magenta
+
+Solution 617:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 618:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 619:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 620:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 621:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Magenta
+
+Solution 622:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Magenta
+
+Solution 623:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Magenta
+
+Solution 624:
+  NSW: Magenta
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Magenta
+
+Solution 625:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 626:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 627:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 628:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 629:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Yellow
+
+Solution 630:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Yellow
+
+Solution 631:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Yellow
+
+Solution 632:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Yellow
+
+Solution 633:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Black
+
+Solution 634:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Black
+
+Solution 635:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Black
+
+Solution 636:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Black
+
+Solution 637:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 638:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 639:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 640:
+  NSW: Magenta
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 641:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 642:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 643:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 644:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 645:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Black
+
+Solution 646:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Black
+
+Solution 647:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Black
+
+Solution 648:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Black
+
+Solution 649:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Magenta
+
+Solution 650:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Magenta
+
+Solution 651:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Magenta
+
+Solution 652:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Magenta
+
+Solution 653:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 654:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 655:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 656:
+  NSW: Yellow
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 657:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Yellow
+
+Solution 658:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Yellow
+
+Solution 659:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Yellow
+
+Solution 660:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Yellow
+
+Solution 661:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 662:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 663:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 664:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 665:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Yellow
+
+Solution 666:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Yellow
+
+Solution 667:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Yellow
+
+Solution 668:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Yellow
+
+Solution 669:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Magenta
+
+Solution 670:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Magenta
+
+Solution 671:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Magenta
+
+Solution 672:
+  NSW: Yellow
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Magenta
+
+Solution 673:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Black
+
+Solution 674:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Black
+
+Solution 675:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Black
+
+Solution 676:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Black
+
+Solution 677:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Yellow
+
+Solution 678:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Yellow
+
+Solution 679:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Yellow
+
+Solution 680:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Yellow
+
+Solution 681:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 682:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 683:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 684:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 685:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Yellow
+
+Solution 686:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Yellow
+
+Solution 687:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Yellow
+
+Solution 688:
+  NSW: Yellow
+  NT: Magenta
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Yellow
+
+Solution 689:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 690:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 691:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 692:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 693:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Black
+
+Solution 694:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Black
+
+Solution 695:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Black
+
+Solution 696:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Black
+
+Solution 697:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Magenta
+
+Solution 698:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Magenta
+
+Solution 699:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Magenta
+
+Solution 700:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Magenta
+
+Solution 701:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Black
+  V: Black
+  WA: Black
+
+Solution 702:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Yellow
+  V: Black
+  WA: Black
+
+Solution 703:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Magenta
+  V: Black
+  WA: Black
+
+Solution 704:
+  NSW: Yellow
+  NT: Yellow
+  Q: Black
+  SA: Cyan
+  T: Cyan
+  V: Black
+  WA: Black
+
+Solution 705:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 706:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 707:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 708:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 709:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Magenta
+
+Solution 710:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Magenta
+
+Solution 711:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Magenta
+
+Solution 712:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Magenta
+
+Solution 713:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Yellow
+
+Solution 714:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Yellow
+
+Solution 715:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Yellow
+
+Solution 716:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Yellow
+
+Solution 717:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 718:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 719:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 720:
+  NSW: Black
+  NT: Black
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 721:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Black
+
+Solution 722:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Black
+
+Solution 723:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Black
+
+Solution 724:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Black
+
+Solution 725:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 726:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 727:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 728:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 729:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Black
+
+Solution 730:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Black
+
+Solution 731:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Black
+
+Solution 732:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Black
+
+Solution 733:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Yellow
+
+Solution 734:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Yellow
+
+Solution 735:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Yellow
+
+Solution 736:
+  NSW: Black
+  NT: Magenta
+  Q: Yellow
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Yellow
+
+Solution 737:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Magenta
+
+Solution 738:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Magenta
+
+Solution 739:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Magenta
+
+Solution 740:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Magenta
+
+Solution 741:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Black
+
+Solution 742:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Black
+
+Solution 743:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Black
+
+Solution 744:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Black
+
+Solution 745:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 746:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 747:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 748:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
+Solution 749:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Black
+
+Solution 750:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Black
+
+Solution 751:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Black
+
+Solution 752:
+  NSW: Black
+  NT: Yellow
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Black
+
+Solution 753:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Yellow
+
+Solution 754:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Yellow
+
+Solution 755:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Yellow
+
+Solution 756:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Yellow
+
+Solution 757:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Yellow
+  WA: Magenta
+
+Solution 758:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Yellow
+  WA: Magenta
+
+Solution 759:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Yellow
+  WA: Magenta
+
+Solution 760:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Yellow
+  WA: Magenta
+
+Solution 761:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Yellow
+
+Solution 762:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Yellow
+
+Solution 763:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Yellow
+
+Solution 764:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Yellow
+
+Solution 765:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Black
+  V: Magenta
+  WA: Magenta
+
+Solution 766:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Yellow
+  V: Magenta
+  WA: Magenta
+
+Solution 767:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Magenta
+  V: Magenta
+  WA: Magenta
+
+Solution 768:
+  NSW: Black
+  NT: Black
+  Q: Magenta
+  SA: Cyan
+  T: Cyan
+  V: Magenta
+  WA: Magenta
+
