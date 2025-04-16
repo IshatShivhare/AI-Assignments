@@ -54,7 +54,7 @@ def solve_8_queens(file):
 # Main execution block
 if __name__ == "__main__":
     # Open the output file to write solutions
-    with open("Assignment10/Question2sol.txt", "w") as f:
+    with open("Assignment 10/Question2sol.txt", "w") as f:
         solve_8_queens(f)
 
     print("Solutions written to 'Question2sol.txt'")
