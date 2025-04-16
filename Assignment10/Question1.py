@@ -63,7 +63,7 @@ def solve_map_coloring(colors, color_names, file):
 # Main execution block
 if __name__ == "__main__":
     # Open the output file to write solutions
-    with open("Assignment 10/Question1sol.txt", "w") as f:
+    with open("Assignment10/Question1sol.txt", "w") as f:
         # Solve for 2 colors
         solve_map_coloring([0, 1], ["Black", "White"], f)
         # Solve for 3 colors
